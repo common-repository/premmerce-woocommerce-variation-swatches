@@ -1,0 +1,38 @@
+.pc-variations-table {
+
+}
+
+.pc-variations-table__column {
+    font-size: 1.4rem;
+}
+
+.single_variation_wrap--loop-product .woocommerce-variation {
+    width: 100%;
+}
+
+.main-attributes-loop {
+    margin-top: 1rem;
+}
+
+.pc-variation-label__control {
+    padding: 8px 4px;
+    font-size: 1.23rem;
+}
+
+.main-attributes-single {
+    border-bottom: 1px solid;
+    border-color: #eaeaea;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.woocommerce div.product form.cart {
+    margin-top: 0;
+    border-top: none;
+}
+
+.theme-selectInner {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
